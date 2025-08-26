@@ -1,1 +1,2 @@
-what is git?
+What is git?
+Git is a open and free source-distributed version control system(DVCS), to  track changes in source code in software development.
